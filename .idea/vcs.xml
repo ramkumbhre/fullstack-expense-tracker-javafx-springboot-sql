@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/expense-tracker-client/Expense_tracker_client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/expense-tracker-springboot-server/Expense_tracker_springboot_server" vcs="Git" />
+  </component>
+</project>
