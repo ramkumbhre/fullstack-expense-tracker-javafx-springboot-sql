@@ -51,13 +51,21 @@ This application allows users to securely track their income and expenses, analy
 
 ## fullstack-expense-tracker-javafx-springboot-sql
 ├── backend/                   # Spring Boot application
+
 │   ├── src/main/java
+
 │   ├── src/main/resources
+
 │   └── pom.xml
+
 ├── frontend/                  # JavaFX application
+
 │   ├── src/main/java
+
 │   └── resources/
+
 ├── docs/                      # Documentation (optional)
+
 └── README.md                  # This file
 
 
